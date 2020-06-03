@@ -1,13 +1,6 @@
 ---
 title: "Contact"
-featured_image: '/images/bocaux.jpg'
-description: "C'est avec plaisir que nous prennons votre retour !"
-omit_header_text: false
-type: page
-menu: main
+date: 2018-07-14T17:09:20+06:00
+description : "This is meta description"
 ---
 
-
-Vous avez une question ou une suggestion sur ce projet ? N'hésitez pas à nous contacter, votre avis nous intéresse !
-
-{{< form-contact action="https://formspree.io/xrgypyjn"  >}}

@@ -1,9 +1,71 @@
-baseURL = "https://avosbocaux.netlify.app/"
-languageCode = "en-us"
-title = "A VOS BOCAUX."
-theme = "ananke"
+baseURL = "http://example.org/"
+languageCode = "fr"
+title = "A VOS BOCAUX. | Une consigne standardisée pour favoriser le réemploi."
+theme = ["timer-hugo"]
 
-[sitemap]
-  changefreq = "monthly"
-  priority = 0.5
-  filename = "sitemap.xml"
+# We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/
+
+# Navbar Menus
+[[menu.main]]
+name    = "A propos"
+url     = "about/details"
+weight  = 2
+[[menu.main]]
+name    = "Enquête"
+url     = "enquete"
+weight  = 3
+[[menu.main]]
+name    = "Blog"
+url     = "blog"
+weight  = 4
+[[menu.main]]
+name    = "Contact"
+url     = "contact"
+weight  = 5
+
+# Site Params
+[params]
+home = "Accueil"
+logo = "images/jar_logo_v3_size.png"
+dateFormat = "6 January 2006"
+# Meta data
+description = "Airspace Hugo theme"
+author = "Themefisher"
+# Google Analitycs
+googleAnalitycsID = "Your ID"
+# contact form action
+contactFormAction = "#" # contact form works with https://formspree.io
+
+# Banner Section
+[params.banner]
+enable  = true
+bgImage = "images/bocaux_home.jpg"
+heading = "A VOS BOCAUX."
+description = "Une consigne standardisée pour favoriser le réemploi à l'échelle de la région Rhône-Alpes."
+# button
+btn     = true
+btnText = "En savoir plus"
+btnURL  = "/about/details"
+
+# flip text
+[[params.banner.flipText]]
+title   = "Mutualisation des coûts"
+[[params.banner.flipText]]
+title   = "Simplicité logistique"
+[[params.banner.flipText]]
+title   = "Economie circulaire"
+
+# Homepage About Section
+[params.about]
+enable  = true
+title   = "EN DEUX MOTS"
+content = "La nécessité de modifier notre logistique de la consommation alimentaire se conforte, avec un cadre réglementaire de plus en plus exigeants vis-à-vis des emballages plastiques et une prise de conscience accélérée autour des enjeux de sobriété énergétique.   Pour le domaine de la restauration hors domicile, la mise en place d'un système de consigne comme substitut aux emballages actuels réponds en tous points à ces nouveaux défis. Toutefois, afin de rendre cette solution durable d'un point de vue écologique et viable économiquement, la mutualisation locale et la standardisation des contenants consignés s'imposent comme des facteurs inévitables de réussite permettant de simplifier la logistique de distribution, d'assurer la durée de vie de la flotte d'emballage et de mutualiser les coûts. "
+image   = "images/about/about.png"
+
+# Call to Action
+[params.cta]
+enable  = true
+title   = "Intéressé(e) par ce projet ?"
+content = "Nous sommes intéressés par vos retours ou suggestions, pour construire ensemble un système de consigne durable."
+btnText = "Contactez-nous"
+btnURL  = "/contact"
