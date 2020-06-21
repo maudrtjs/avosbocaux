@@ -25,6 +25,7 @@ weight  = 5
 
 # Site Params
 [params]
+color_theme = "forest"
 home = "Accueil"
 logo = "images/jar_logo_v3_size.png"
 dateFormat = "6 January 2006"
@@ -34,12 +35,12 @@ author = "Themefisher"
 # Google Analitycs
 googleAnalitycsID = "Your ID"
 # contact form action
-contactFormAction = "#" # contact form works with https://formspree.io
+contactFormAction = "https://formspree.io/xrgypyjn"
 
 # Banner Section
 [params.banner]
 enable  = true
-bgImage = "images/bocaux_home.jpg"
+bgImage = "images/home_image.jpeg"
 heading = "A VOS BOCAUX."
 description = "Une consigne standardisée pour favoriser le réemploi à l'échelle de la région Rhône-Alpes."
 # button
