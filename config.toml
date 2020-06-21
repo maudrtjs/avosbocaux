@@ -11,21 +11,16 @@ name    = "A propos"
 url     = "about/details"
 weight  = 2
 [[menu.main]]
-name    = "Enquête"
-url     = "enquete"
-weight  = 3
-[[menu.main]]
 name    = "Blog"
 url     = "blog"
-weight  = 4
+weight  = 3
 [[menu.main]]
 name    = "Contact"
 url     = "contact"
-weight  = 5
+weight  = 4
 
 # Site Params
 [params]
-color_theme = "forest"
 home = "Accueil"
 logo = "images/jar_logo_v3_size.png"
 dateFormat = "6 January 2006"
@@ -67,6 +62,6 @@ image   = "images/about/about.png"
 [params.cta]
 enable  = true
 title   = "Intéressé(e) par ce projet ?"
-content = "Nous sommes intéressés par vos retours ou suggestions, pour construire ensemble un système de consigne durable."
-btnText = "Contactez-nous"
-btnURL  = "/contact"
+content = "Nous avons besoin plus que tout de vos retours pour construire ensemble un système de consigne durable. Répondez à notre questionnaire : "
+btnText = "Aidez-nous :)"
+btnURL  = "https://docs.google.com/forms/d/e/1FAIpQLSdlTDmTRc4vANh13-yD6CFNj4fqAhn6X-5P8mr-pk3Ti9vXyg/viewform?usp=sf_link"
