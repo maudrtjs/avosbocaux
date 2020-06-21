@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Evolution réglementaire on A VOS BOCAUX. | Une consigne standardisée pour favoriser le réemploi.</title>
+    <link>http://example.org/about/</link>
+    <description>Recent content in Evolution réglementaire on A VOS BOCAUX. | Une consigne standardisée pour favoriser le réemploi.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Sun, 31 May 2020 12:29:40 +0600</lastBuildDate>
+    
+	<atom:link href="http://example.org/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A VOS BOCAUX, quésaco ?</title>
+      <link>http://example.org/about/details/</link>
+      <pubDate>Sun, 31 May 2020 12:29:40 +0600</pubDate>
+      
+      <guid>http://example.org/about/details/</guid>
+      <description>Dans le cadre d&amp;rsquo;un projet de loi anti-gaspillage et d&amp;rsquo;économie circulaire, visant la fin des emballages plastiques en 2040, de nouvelles interdictions liées à l&amp;rsquo;utilisation des emballages uniques dans le domaine de la restauration devront entrer en vigueur en 2021 [1]. Sont notamment concernés les pailles, les couverts, les assiettes, les contenants et bouteilles en polystyrène expansés [2].
+L&amp;rsquo;interdiction de l&amp;rsquo;utilisation d&amp;rsquo;emballages à usage unique fait d&amp;rsquo;ailleurs partie des propositions formulées par la Convention Citoyenne pour le climat et présentées au gouvernement le 21/06/20.</description>
+    </item>
+    
+  </channel>
+</rss>

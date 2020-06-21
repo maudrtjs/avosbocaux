@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>L&#39;actualité du projet on A VOS BOCAUX. | Une consigne standardisée pour favoriser le réemploi.</title>
+    <link>http://example.org/blog/</link>
+    <description>Recent content in L&#39;actualité du projet on A VOS BOCAUX. | Une consigne standardisée pour favoriser le réemploi.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Sun, 15 Jul 2018 12:32:37 +0600</lastBuildDate>
+    
+	<atom:link href="http://example.org/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Les consignes de la convention citoyenne pour le climat !</title>
+      <link>http://example.org/blog/convention_citoyenne/</link>
+      <pubDate>Sun, 21 Jun 2020 12:29:40 +0600</pubDate>
+      
+      <guid>http://example.org/blog/convention_citoyenne/</guid>
+      <description>C&amp;rsquo;est aujourd&amp;rsquo;hui que la Convention citoyenne pour le climat présente ses 150 propositions au gouvernement.
+La Convention citoyenne pour le climat, réunit depuis octobre 2019 150 personnes tirées au sort avec pour but de formuler des propositions visant à réduire de 40% les gaz à effet de serre d&amp;rsquo;ici 2030. Pour plus d&amp;rsquo;informations sur ce projet, rendez-vous sur leur site.
+La question du surremballage est au coeur des objectifs de la convention.</description>
+    </item>
+    
+    <item>
+      <title>La saison de la récolte !</title>
+      <link>http://example.org/blog/recolte_avis/</link>
+      <pubDate>Sun, 31 May 2020 12:29:40 +0600</pubDate>
+      
+      <guid>http://example.org/blog/recolte_avis/</guid>
+      <description>Ca y est la première phase du projet est lancée !
+Après une étude bibliographique passionante, il est temps de confronter la théorie à la réalité du terrain Lyonnais. Afin de proposer une solution en adéquation avec les enjeux économiques et logistiques de chacun, un questionnaire a été élaboré.
+Le but ? Récolter le maximum de témoignages pour sonder les obstacles logistiques, les enjeux marketings, le budget et le point de vue des commerces de proximité vis-à-vis de la mise en place d&amp;rsquo;une consigne.</description>
+    </item>
+    
+  </channel>
+</rss>
