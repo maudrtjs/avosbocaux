@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://avosbocaux.netlify.app/"
 languageCode = "fr"
 title = "A VOS BOCAUX. | Une consigne standardisée pour favoriser le réemploi."
 theme = ["timer-hugo"]

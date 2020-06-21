@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>A VOS BOCAUX. | Une consigne standardisée pour favoriser le réemploi.</title>
-    <link>http://example.org/</link>
+    <link>https://avosbocaux.netlify.app/</link>
     <description>Recent content on A VOS BOCAUX. | Une consigne standardisée pour favoriser le réemploi.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <lastBuildDate>Sun, 21 Jun 2020 12:29:40 +0600</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://avosbocaux.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Les consignes de la convention citoyenne pour le climat !</title>
-      <link>http://example.org/blog/convention_citoyenne/</link>
+      <link>https://avosbocaux.netlify.app/blog/convention_citoyenne/</link>
       <pubDate>Sun, 21 Jun 2020 12:29:40 +0600</pubDate>
       
-      <guid>http://example.org/blog/convention_citoyenne/</guid>
+      <guid>https://avosbocaux.netlify.app/blog/convention_citoyenne/</guid>
       <description>C&amp;rsquo;est aujourd&amp;rsquo;hui que la Convention citoyenne pour le climat présente ses 150 propositions au gouvernement.
 La Convention citoyenne pour le climat, réunit depuis octobre 2019 150 personnes tirées au sort avec pour but de formuler des propositions visant à réduire de 40% les gaz à effet de serre d&amp;rsquo;ici 2030. Pour plus d&amp;rsquo;informations sur ce projet, rendez-vous sur leur site.
 La question du surremballage est au coeur des objectifs de la convention.</description>
@@ -24,20 +24,20 @@ La question du surremballage est au coeur des objectifs de la convention.</descr
     
     <item>
       <title>A VOS BOCAUX, quésaco ?</title>
-      <link>http://example.org/about/details/</link>
+      <link>https://avosbocaux.netlify.app/about/details/</link>
       <pubDate>Sun, 31 May 2020 12:29:40 +0600</pubDate>
       
-      <guid>http://example.org/about/details/</guid>
+      <guid>https://avosbocaux.netlify.app/about/details/</guid>
       <description>Dans le cadre d&amp;rsquo;un projet de loi anti-gaspillage et d&amp;rsquo;économie circulaire, visant la fin des emballages plastiques en 2040, de nouvelles interdictions liées à l&amp;rsquo;utilisation des emballages uniques dans le domaine de la restauration devront entrer en vigueur en 2021 [1]. Sont notamment concernés les pailles, les couverts, les assiettes, les contenants et bouteilles en polystyrène expansés [2].
 L&amp;rsquo;interdiction de l&amp;rsquo;utilisation d&amp;rsquo;emballages à usage unique fait d&amp;rsquo;ailleurs partie des propositions formulées par la Convention Citoyenne pour le climat et présentées au gouvernement le 21/06/20.</description>
     </item>
     
     <item>
       <title>La saison de la récolte !</title>
-      <link>http://example.org/blog/recolte_avis/</link>
+      <link>https://avosbocaux.netlify.app/blog/recolte_avis/</link>
       <pubDate>Sun, 31 May 2020 12:29:40 +0600</pubDate>
       
-      <guid>http://example.org/blog/recolte_avis/</guid>
+      <guid>https://avosbocaux.netlify.app/blog/recolte_avis/</guid>
       <description>Ca y est la première phase du projet est lancée !
 Après une étude bibliographique passionante, il est temps de confronter la théorie à la réalité du terrain Lyonnais. Afin de proposer une solution en adéquation avec les enjeux économiques et logistiques de chacun, un questionnaire a été élaboré.
 Le but ? Récolter le maximum de témoignages pour sonder les obstacles logistiques, les enjeux marketings, le budget et le point de vue des commerces de proximité vis-à-vis de la mise en place d&amp;rsquo;une consigne.</description>
